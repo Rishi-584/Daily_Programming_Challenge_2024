@@ -218,6 +218,7 @@ I'll be continually learning and developing new skills throughout this event, an
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/rushyendra-reddy-burla-a866a0214)
 - **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-Profile-yellow)](https://github.com/Rishi-584)
 - **E-Mail:** [![Mail](https://img.shields.io/badge/Email-Id-orange)](burlarushyendrareddy@gmail.com)
+- 
 Feel free to connect with me on LinkedIn or explore my other projects on GitHub!
 
 ---
